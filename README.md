@@ -10,4 +10,16 @@ SW 명 : ICT MetaDataSend
 
 활용조건/구동조건 : Windows OS
 
-필요 라이브러리 : 
+필요 라이브러리 : VS2015, OpenCV3xx버전
+
+개발 언어 : C++, MFC
+
+입력형식 : Port설정번호, TCP/IP 소켓통신: Metadata, Image 전송
+
+출력형식 : TCP/IP 소켓통신: 메타데이터, 이미지
+
+기능명세 : sStreamingData 전송
+
+<입출력 예제 >
+
+입력 : 동영상  출력 : 이미지 + 메타데이터
